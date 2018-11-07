@@ -5,7 +5,7 @@ public class newstreak {
 
         Scanner keyin=new Scanner(System.in);
 
-        String Fstreak,Qstreak,pname,ppname,gname,input,output,season,seasonname;          // pname: player 1, ppname: player 2
+        String pname,ppname,gname,input,season,seasonname;          // pname: player 1, ppname: player 2
 
         String yes = "yes";
         String no= "no";
@@ -61,11 +61,5 @@ public class newstreak {
 
             System.out.println("You can't do anything! Good luck with your next match!");
         }
-
-
-
-
-
-
-    }
+   }
 }
